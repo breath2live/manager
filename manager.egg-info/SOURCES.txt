@@ -1,0 +1,10 @@
+README.md
+setup.py
+manager/__init__.py
+manager/manager.py
+manager/version.py
+manager.egg-info/PKG-INFO
+manager.egg-info/SOURCES.txt
+manager.egg-info/dependency_links.txt
+manager.egg-info/requires.txt
+manager.egg-info/top_level.txt
